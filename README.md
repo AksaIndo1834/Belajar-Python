@@ -1,2 +1,2 @@
 # Belajar-Python
-Program latihan Python saya
+Repo yang berisi program-program python yang saya buat selama saya belajar python.
