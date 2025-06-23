@@ -61,9 +61,10 @@ Contoh kasus salah ketik yang dapat membuat program error:
    Setelah user memasukkan nilai suhu Celcius, program akan mengonversikan suhu Celcius ke Fahrenheit, Kelvin, dan Reamur serta menampilkan hasilnya. Selanjutnya, user menginput suhu Fahrenheit dan dikonversikan oleh program.
    Begitu seterusnya hingga Reamur. 
 
+
 📝 *Catatan:* 
-      - Setelah proses konversi, program akan langsung berhenti.
-      - Gunakan titik (.) sebagai tanda koma pada angka desimal.
+- Setelah proses konversi, program akan langsung berhenti.
+- Gunakan titik (.) sebagai tanda koma pada angka desimal.
 
 
 
