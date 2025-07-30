@@ -22,6 +22,18 @@ Contoh peletakan file yang salah:
 **📝Catatan:** Nama-nama di dalam daftar akan dibentuk menjadi kelompok secara acak.
 
 
-# Demonstrasi Penggunaan Program
+# Cara Menggunakan Program
+1. Menggunakan CMD
+   1) Arahkan ke alamat folder tempat file berada, dengan cara mengetik:
+       ```cmd
+       cd alamat_folder
+   2) Jalankan file python, dengan cara mengetik:
+       ```cmd
+       python main_app.py
+   3) Window/jendela program akan muncul dan sudah bisa digunakan.
+   
+  - Menggunakan IDE/Text editor (seperti VS Code atau PyCharm)
+    1)   
+  
 
 
